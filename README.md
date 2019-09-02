@@ -2,7 +2,7 @@
 
 ORBS is a basic python script for randomly setting the background image from a pool of background images and then setting a matching or predefined color to Razer Devices using the [OpenRazer](https://github.com/openrazer/openrazer) library. 
 
-Several options are available for configuring the background pool and color scheme to apply for each one. For each script just set the path to either the wallpaper folder or config file and set the time to however long you'd like the background the stay before changing. 
+Several options are available for configuring the background pool and color scheme to apply for each one. For each script just set the path to either the wallpaper folder or config file and then set the time for how long you'd like the background to stay before changing. 
 
 ## ORBS
 
